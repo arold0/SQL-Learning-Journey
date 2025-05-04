@@ -25,7 +25,7 @@ Utilizamos un dataset simplificado de una tienda online con las siguientes tabla
 - `products` - Catálogo de productos
 - `order_items` - Detalle de productos por pedido
 
-[Ver estructura completa del dataset](./datasets/README.md)
+[Ver estructura completa del dataset](https://github.com/arold0/SQL-Learning-Journey/tree/develop/01_Fundamentos_Solidos/datasets)
 
 ## 🔧 Configuración
 
