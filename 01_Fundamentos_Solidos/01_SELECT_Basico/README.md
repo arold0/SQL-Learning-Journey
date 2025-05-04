@@ -49,7 +49,7 @@ Trabajamos con una base de datos de una tienda online que incluye:
 - `orders` - Pedidos realizados
 - `order_items` - Detalles de pedidos
 
-Para más información sobre el dataset, consulta [datasets/README.md](../datasets/README.md)
+Para más información sobre el dataset, consulta [datasets/]([../datasets/README.md](https://github.com/arold0/SQL-Learning-Journey/tree/develop/01_Fundamentos_Solidos/datasets))
 
 ## 🚀 Guía de Inicio Rápido
 
